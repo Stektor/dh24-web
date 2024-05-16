@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+}
+
+#aueb-title {
+    color: purple;
+    font-size: 4rem;
+    font-family: "Metal Mania";
+}
+
+
+p {
+    background-color: grey;
+}
+/*.aueb-text{
+    background-color: green;
+}*/
+.aueb-text, .aueb-text2{
+    background-color: red;
+}
+
+ul > li {
+    color: greenyellow;
+}
+
+.dh > span{
+    background-color: aquamarine;
+}
+
+input[type="text"]{
+    background-color: purple;
+}
+
+input[type="button"]{
+    background-color: indianred;
+}
+
+table{
+    width: 500px;
+    border: 1px solid whitesmoke;
+}
+
+
+/*.courses > li {
+    color: ghostwhite;
+}
+/*
+
+.courses li{
+    color:blue;
+    list-style:none;
+
+}    <tr><th>Ονομα</tr></th><tr>Επωνυμο</th></tr>
+    <tr>Ανδρεας<th>Ευαγγελατος</th></tr>
+    <tr>Νικος<th>Καραπανος</th></tr>
